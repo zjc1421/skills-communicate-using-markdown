@@ -3,5 +3,9 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-commit message: add a new index markdown file
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
 
